@@ -2,7 +2,7 @@ import { useState } from "react";
 import axios from "axios";
 import { Link, useNavigate } from "react-router-dom";
 
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://social-post-app-cy8i.onrender.com/api";
 
 function Login() {
   const [form, setForm] = useState({

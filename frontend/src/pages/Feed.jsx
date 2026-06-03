@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api";
-const BACKEND_URL = "http://localhost:5000";
+const API_URL = "https://social-post-app-cy8i.onrender.com/api";
+const BACKEND_URL = "https://social-post-app-cy8i.onrender.com";
 
 function Feed() {
   const [posts, setPosts] = useState([]);
