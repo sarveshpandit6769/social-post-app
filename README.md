@@ -171,6 +171,8 @@ MongoDB database
 Only users and posts collections used
 Clean and responsive UI
 Separate frontend and backend folders
-Author
 
+
+
+Author
 Sarvesh Pandit
